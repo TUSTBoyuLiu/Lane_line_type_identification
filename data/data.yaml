@@ -1,0 +1,14 @@
+names:
+- 's_w_i'
+- 's_w_f'
+- 's_y_i'
+- 's_y_f'
+- 'd_y_f'
+- 'd_y_i'
+- 'y_lf_ri'
+- 'y_li_rf'
+- 'w_lf_ri'
+- 'w_li_rf'
+nc: 10
+train: /lane/train/images
+val: /lane/valid/images
